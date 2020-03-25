@@ -2,6 +2,12 @@ LIS3DSH breakout board using same (minimal) form factor of ADXL355-EVAL
 
 
 LIS3DSH MEMS accelerometer
+> 3-axial MEMS accelerometer
+> 1.71 to 3.6 Volt power supply
+> indipendent I/O power supply
+> full scale selectable (2/4/6/8/16g)
+> 16 bit data output
+> output data rate from 3.125 Hz to 1.6 kHz
 
 
 
