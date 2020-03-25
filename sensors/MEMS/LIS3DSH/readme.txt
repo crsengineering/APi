@@ -1,4 +1,5 @@
 LIS3DSH breakout board using same (minimal) form factor of ADXL355-EVAL
+I made this breakout for comparison between ADXL355 and LIS3DSH MEMS accelerometers
 
 
 LIS3DSH MEMS accelerometer
@@ -8,6 +9,7 @@ LIS3DSH MEMS accelerometer
 > full scale selectable (2/4/6/8/16g)
 > 16 bit data output
 > output data rate from 3.125 Hz to 1.6 kHz
+> noise density typ. 150 ug/SQRT(Hz)
 
 
 
