@@ -1,0 +1,12 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "LIS3DSH_PCBway.brd" as of: 19/02/2020 15:54:24
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,-0.083,-0.107,180
+C2,Top,-0.104,-0.167,180
+C3,Top,0.126,-0.103,270
+U1,Top,0.000,0.000,180

@@ -1,0 +1,7 @@
+Partlist exported from C:/Program Files (x86)/EAGLE-4.16/projects/adxpi/LIS3D/LIS3DSH_PCBway.sch at 19/02/2020 15:54:14
+
+Part Value              Device   Package Description 
+C1   GCM155R71C104KA55D C_0402_B 0402    Capacitor 100nF - 16V - X7R              
+C2   EMK212BB7106KG-T   C_0805_B 0805    Capacitor 10uF - 16V - X7R           
+C3   GCM155R71C104KA55D C_0402_B 0402    Capacitor 100nF - 16V - X7R           
+U1   LIS3DSHTR          LIS3DSH  LGA16   LIS3DSHTR           
